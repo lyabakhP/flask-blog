@@ -72,3 +72,10 @@ Traceback (most recent call last):
     cursor.execute(statement, parameters)
 sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: user.username [SQL: 'UPDATE user SET username=?, about_me=? WHERE user.id = ?'] [parameters: ('buttusova', 'Some added info ', 1)] (Background on this error at: http://sqlalche.me/e/gkpj)
 2018-12-09 12:31:36,011 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:43]
+2018-12-09 12:52:40,982 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:43]
+2018-12-09 12:52:53,397 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:43]
+2018-12-09 12:53:17,766 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:43]
+2018-12-09 12:54:17,500 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:43]
+2018-12-09 13:01:08,466 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:43]
+2018-12-09 13:18:26,973 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:43]
+2018-12-09 13:25:34,277 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:43]
