@@ -44,3 +44,10 @@ Traceback (most recent call last):
     raise TemplateAssertionError(msg, lineno, self.name, self.filename)
 jinja2.exceptions.TemplateAssertionError: block 'app_content' defined twice
 2018-12-09 19:10:52,133 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:47]
+2018-12-09 19:37:59,209 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:50]
+2018-12-09 20:52:37,958 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:53]
+2018-12-09 20:53:29,300 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:53]
+2018-12-09 21:13:05,190 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:53]
+2018-12-09 21:15:31,426 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:53]
+2018-12-09 21:16:04,025 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:53]
+2018-12-09 21:16:20,684 INFO: Microblog startup [in /mnt/d/diploma/flask_mega_tutorial/microblog/app/__init__.py:53]
