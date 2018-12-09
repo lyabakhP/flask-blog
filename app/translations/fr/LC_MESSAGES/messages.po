@@ -20,67 +20,67 @@ msgstr ""
 
 #: app/__init__.py:22
 msgid "Please log in to access this page."
-msgstr ""
+msgstr "Por favor ingrese para acceder a esta página."
 
 #: app/email.py:26
 msgid "[Microblog] Reset Your Password"
-msgstr ""
+msgstr "[Microblog] Nueva Contraseña"
 
 #: app/forms.py:8 app/forms.py:14 app/forms.py:33
 msgid "Username"
-msgstr ""
+msgstr "Nombre de usuario"
 
 #: app/forms.py:9 app/forms.py:16 app/forms.py:58
 msgid "Password"
-msgstr ""
+msgstr "Contraseña"
 
 #: app/forms.py:10
 msgid "Remember Me"
-msgstr ""
+msgstr "Recordarme"
 
 #: app/forms.py:11 app/templates/login.html:5
 msgid "Sign In"
-msgstr ""
+msgstr "Ingresar"
 
 #: app/forms.py:15 app/forms.py:53
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: app/forms.py:18 app/forms.py:60
 msgid "Repeat Password"
-msgstr ""
+msgstr "Repetir Contraseña"
 
 #: app/forms.py:20 app/templates/register.html:5
 msgid "Register"
-msgstr ""
+msgstr "Registrarse"
 
 #: app/forms.py:25 app/forms.py:46
 msgid "Please use a different username."
-msgstr ""
+msgstr "Por favor use un nombre de usuario diferente."
 
 #: app/forms.py:30
 msgid "Please use a different email address."
-msgstr ""
+msgstr "Por favor use una dirección de email diferente."
 
 #: app/forms.py:34
 msgid "About me"
-msgstr ""
+msgstr "Acerca de mí"
 
 #: app/forms.py:36 app/forms.py:50
 msgid "Submit"
-msgstr ""
+msgstr "Enviar"
 
 #: app/forms.py:49
 msgid "Say something"
-msgstr ""
+msgstr "Dí algo"
 
 #: app/forms.py:54 app/forms.py:62
 msgid "Request Password Reset"
-msgstr ""
+msgstr "Pedir una nueva contraseña"
 
 #: app/routes.py:27
 msgid "Your post is now active!"
-msgstr ""
+msgstr "¡Tu artículo ha sido publicado!"
 
 #: app/routes.py:76
 msgid "Invalid username or password"
