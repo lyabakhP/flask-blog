@@ -22,7 +22,7 @@ llvmlite==0.26.0
 Mako==1.0.7
 MarkupSafe==1.1.0
 numba==0.41.0
-numpy==1.15.4
+numpy==1.22.0
 pkg-resources==0.0.0
 PyJWT==1.7.1
 python-dateutil==2.7.5
